@@ -21,7 +21,6 @@ Candidate                 Votes Status
 Juan Simon Angel             12 Elected 
 Yezarel Prieto                9 Runnerup
 Cameron White                 0 Out
-
 ```
 
 **Single transferable vote (STV):** A multiple candidate election method that elects candidates based on proportional representation.
@@ -63,7 +62,6 @@ Cameron White              26 Elected
 Juan Simon Angel           25 Elected
 Jazmyn Gregory              0 Out
 Isabel Kassum               0 Out
-
 ```
 **Preferential block vote (PBV):** A multiple candidate election method that elects candidates that obtain a majority support (≥ 50% of the votes).
 Voters rank candidates and are granted one vote. The candidate with fewest votes is removed and the candidate's votes are transferred according to the voters 2nd choice or 3rd and etc.
@@ -79,8 +77,6 @@ Maksim Malanchunk, Libertarian         28 Elected
 Maxwell Paradis, Libertarian           26 Elected
 Jean-Paul Absi, Republican             21 Out
 William Arnold, Democrat               15 Out
-
-
 ```
 
 ## Versions
