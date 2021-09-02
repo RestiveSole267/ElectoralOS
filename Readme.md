@@ -57,11 +57,11 @@ Isabel Kassum                 0 Out
 FINAL ROUND
 Candidate                 Votes Status 
 -------------------- ---------- ------------
-Yezarel Prieto             28 Elected 
-Cameron White              26 Elected
-Juan Simon Angel           25 Elected
-Jazmyn Gregory              0 Out
-Isabel Kassum               0 Out
+Yezarel Prieto               28 Elected 
+Cameron White                26 Elected
+Juan Simon Angel             25 Elected
+Jazmyn Gregory                0 Out
+Isabel Kassum                 0 Out
 ```
 **Preferential block vote (PBV):** A multiple candidate election method that elects candidates that obtain a majority support (≥ 50% of the votes).
 Voters rank candidates and are granted one vote. The candidate with fewest votes is removed and the candidate's votes are transferred according to the voters 2nd choice or 3rd and etc.
