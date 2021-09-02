@@ -1,6 +1,6 @@
 # ElectoralOS 
 
-ElectoralOS is a voting operating system for different types of ranked-choice voting systems (IRV, STV, PBV)
+ElectoralOS is a voting operating system for different types of ranked-choice voting systems (IRV, STV, PBV). This was orignially a personal project created by me a year ago originally named Election Alpha.
 
 ## Ranking Methods
 **Instant runoff voting (IRV):** A single candidate election method that elects the candidate with majority support (≥ 50% of the votes).
